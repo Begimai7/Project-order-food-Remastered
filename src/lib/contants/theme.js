@@ -41,6 +41,12 @@ export const darkTheme = {
      dark: "#74280a",
      contrastText: "#fff"
    }, 
+   secondary: {
+    main: "#39313a",
+    light:" #3F3F3F", 
+    dark: "#3B2300",
+    contrastText: "#fff"
+  },
    error: {
     main: "#f20a0a",
     light:" #f03333", 

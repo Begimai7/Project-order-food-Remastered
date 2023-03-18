@@ -13,3 +13,4 @@ export const themeSlice = createSlice({
   }
  }
 })
+export const themeActions = themeSlice.actions
